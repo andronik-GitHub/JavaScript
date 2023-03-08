@@ -9,8 +9,8 @@ import ReactDOM from 'react-dom/client';
 // import Ex06 from './Exercices/Ex06/Ex06.js';
 // import Ex07 from '../src/Exercices/Ex07.js';
 // import Ex08 from './Exercices/Ex08/Ex08.js';
-import Ex09 from '../src/Exercices/Ex09.js';
-// import Ex10 from '../src/Exercices/Ex10.js';
+// import Ex09 from '../src/Exercices/Ex09.js';
+import Ex10 from '../src/Exercices/Ex10.js';
 
 
 ReactDOM
@@ -25,7 +25,7 @@ ReactDOM
       {/* <Ex06 /> */}
       {/* <Ex07 /> */}
       {/* <Ex08 /> */}
-      <Ex09 />
-      {/* <Ex10 /> */}
+      {/* <Ex09 /> */}
+      <Ex10 />
     </div>
   );
